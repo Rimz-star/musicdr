@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Lagu Santai",
+    "artist": "Artist A",
+    "url": "/music/lagu1.mp3",
+    "cover": "/cover/cover1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Lagu Semangat",
+    "artist": "Artist B",
+    "url": "/music/lagu2.mp3",
+    "cover": "/cover/cover2.jpg"
+  }
+]
